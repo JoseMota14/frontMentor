@@ -1,0 +1,12 @@
+.question {
+  border-bottom: dashed #8c9ed1;
+}
+
+.line {
+  display: flex;
+  flex-direction: row;
+}
+
+.icon {
+  right: 0px;
+}
